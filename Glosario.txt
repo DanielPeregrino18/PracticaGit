@@ -1,0 +1,5 @@
+Palabras comunes en git
+
+push: enviar mis cambios al repositorio remoto
+pull: actualizar mi repositorio local
+commit: significa, indicarle al control de versiones que los cambios hechos son definitivos
